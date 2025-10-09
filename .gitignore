@@ -20,3 +20,5 @@ typesense-data
 /dist
 /tmp
 *.tar.gz
+config.bat
+node_modules
